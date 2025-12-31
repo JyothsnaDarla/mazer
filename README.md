@@ -18,7 +18,7 @@ A fully data-driven admin dashboard.
 
 <h1 align="center">Mazer Dashboard</h1>
 
-![Mazer Screenshot](https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png)
+<img width="1914" height="910" alt="Image" src="https://github.com/user-attachments/assets/883cfbb1-161b-47e7-aabc-9e0486aa212d" />
 
 <p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
 <div align="center">
