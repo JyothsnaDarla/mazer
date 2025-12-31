@@ -1,3 +1,21 @@
+# Task 3 – Dashboard Customization
+
+This project is part of the KeshavSoft Internship Task 3.
+
+## Changes Made
+- Converted static dashboard into dynamic
+- Stats, comments, and messages load from JSON
+- Charts rendered using ApexCharts
+- Improved UI and layout
+
+## Data Source
+- Local JSON file
+
+
+
+## Outcome
+A fully data-driven admin dashboard.
+
 <h1 align="center">Mazer Dashboard</h1>
 
 ![Mazer Screenshot](https://user-images.githubusercontent.com/45036724/167523601-9d20fb17-1989-488f-b619-cb53c0db8898.png)
